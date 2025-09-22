@@ -16,7 +16,7 @@ Mini Library Management application built with **C# WinForms**, **Entity Framewo
 
 ## 🖼️ Screenshots
 
-![Main Form](./screenshots/main-form.png)
+![Main Form](./Screenshots/main-form.png)
 
 ---
 
